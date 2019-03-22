@@ -1,3 +1,4 @@
-# PRACTICA1
-PASO A PASO CON LEONIDAS
-Práctica número uno del curso
+# PRACTICA1 - Curso de Desarrollo Web Online
+
+https://platzi.com/clases/html5-css3/
+
